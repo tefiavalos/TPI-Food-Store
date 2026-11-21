@@ -4,9 +4,9 @@ Trabajo Práctico Integrador · Programación 4 · Tecnicatura Universitaria en 
 
 **Alumna:** Estefanía Avalos
 
-**Repositorio:** https://github.com/tefiavalos/food-store
+**Repositorio:** https://github.com/tefiavalos/TPI-Food-Store
 
-[**Video de demostración:**](https://drive.google.com/file/d/1ONQFxdypBZFHSm3GeCIuMU-n7ecMRWyE/view?usp=sharing)
+**Video de demostración:** https://drive.google.com/file/d/1ONQFxdypBZFHSm3GeCIuMU-n7ecMRWyE/view?usp=sharing
 
 Aplicación web para un negocio de comidas. Los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos indicando dirección y forma de pago. El administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
 
